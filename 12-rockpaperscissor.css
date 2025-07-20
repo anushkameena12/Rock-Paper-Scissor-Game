@@ -1,0 +1,47 @@
+body{
+            background-color: rgb(25, 25, 25);
+            color:white ;
+            font-family : Arial, sans-serif;
+            text-align: center;
+        }
+        .para{
+            font-weight: bold;
+            font-size: xx-large
+
+        }
+        .move-icon{
+            height: 50px;
+            
+        }
+
+        .moves-button{
+            border: solid white 3px;
+            border-radius: 80%;
+            width: 120px;
+            height: 120px;
+            background-color: rgb(25, 25, 25);
+            color: white;
+            margin-bottom: 30px;
+            cursor: pointer;
+            margin-right: 10px;
+            
+            
+        }
+         
+
+        .reset-button,
+        .auto-play-button {
+            border: none;
+            font-size : 15px;
+            padding: 10px;
+            cursor: pointer;
+            
+        }
+        .result{
+            font-size: x-large;
+            font-weight: bold;
+
+        }
+        .score{
+            margin-top: 50px;
+        }
