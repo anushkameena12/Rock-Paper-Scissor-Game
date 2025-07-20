@@ -22,13 +22,13 @@ To run this game locally, simply follow these steps:
 
 1.  Clone the repository (or download the ZIP file):
     ```bash
-    git clone https://github.com/your-username/rock-paper-scissors.git
+    git clone https://github.com/anushkameena12/Rock-Paper-Scissor-Game
     ```
-    *Remember to replace `your-username` with your actual GitHub username and `rock-paper-scissors` with your repository name.*
+    
 2.  Navigate to the project directory:
 
     ```bash
-    cd rock-paper-scissors
+    cd Rock-Paper-Scissor
     ```
 
 3.  Open the `rockpaperscissor.html` file in your preferred web browser.
