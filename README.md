@@ -49,6 +49,8 @@ Once you open `rockpaperscissor.html` in your browser, you'll see the game inter
 
 ## 📂 Overview
 
+![](https://github.com/anushkameena12/Rock-Paper-Scissor-Game/blob/main/screenshots/Screenshot%20(116).png)
+
 
 
 ---
