@@ -28,7 +28,7 @@ To run this game locally, simply follow these steps:
 2.  Navigate to the project directory:
 
     ```bash
-    cd Rock-Paper-Scissor
+    cd Rock-Paper-Scissor-Game
     ```
 
 3.  Open the `rockpaperscissor.html` file in your preferred web browser.
